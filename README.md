@@ -1,16 +1,11 @@
-# flutter_facebook_responsive_ui
+# Responsive Facebook UI
 
-A new Flutter application.
+A [Flutter](https://flutter.dev/) application for made in design purposes with real-time responsive UI for mobile and web.
 
-## Getting Started
+[Download APK](release/fb-clone.apk)
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+|Mobile|Desktop|
+|---|---|
+|![mobile](release/screenshot1.jpg)|![desktop](release/screenshot_d.png)|
